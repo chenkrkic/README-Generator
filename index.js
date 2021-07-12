@@ -31,6 +31,26 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'link',
+        message: 'Please provide a GitHub link to this project. (Required)',
+        when: ({contents}) => {
+            if (contents.indexOf('Deployed Application') > -1) {
+                return true;
+            } else {
+                return false;
+            }
+        },
+        validate: linkInput => {
+            if (linkInput) {
+                return true;
+            } else {
+                console.log('Please provide a link!');
+                return false;
+            }
+        }
+    },
+    {
+        type: 'input',
         name: 'description',
         message: 'Please provide a description for this application. (Required)',
         validate: descInput => {
