@@ -12,17 +12,17 @@ This is a README file that generates by Node.js application.
 
 ##Contents
 
-###Installation
+-Installation
 
-###Usage
+-Usage
 
-###License
+-License
 
-###Tests
+-Tests
 
-###Questions
+-Questions
 
-###Screenshots
+-Screenshots
 
 
 ##Installation
