@@ -1,3 +1,4 @@
+<img width="1440" alt="screenshot" src="https://user-images.githubusercontent.com/30817557/125216602-8545e980-e273-11eb-82d4-a82fcc163a88.png">
 # README-Generator
 
 README-Generator
@@ -33,4 +34,5 @@ Questions
 If you have any questions about the repo, please open an issue or contact me via email at ga-kit@hotmail.com. You can find more of my work on my GitHub, chenkrkic.
 
 Screenshots
+<img width="1440" alt="screenshot" src="https://user-images.githubusercontent.com/30817557/125216627-968ef600-e273-11eb-9fc1-e26c1b34f249.png">
 A screenshot of the README page. A screenshot of the README page.
