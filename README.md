@@ -1,4 +1,3 @@
-<img width="1440" alt="screenshot" src="https://user-images.githubusercontent.com/30817557/125216602-8545e980-e273-11eb-82d4-a82fcc163a88.png">
 # README-Generator
 
 README-Generator
